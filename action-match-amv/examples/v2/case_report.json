@@ -1,0 +1,51 @@
+{
+  "errors": [],
+  "video_frames": "6303",
+  "fps": "30/1",
+  "duration": "210.100000",
+  "file_bytes": 495545677,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "shots": 223,
+  "source_files": 43,
+  "sound_cues": 206,
+  "timeline_gaps": 0,
+  "source_range_overlaps": 0,
+  "full_decode_exit_code": 0,
+  "black_intervals": [],
+  "audio_correlation_zero_lag": 0.9997584234650089,
+  "audio_codec_rmse": 0.003915030509233475,
+  "decoded_audio_peak": 0.7601429224014282,
+  "action_anchor_median_beat_error_ms": 15.365,
+  "action_anchors_within_1_frame": 99,
+  "anchor_note": "Anchors are editorially selected approximations, not every detected frame of contact. Timing stats measure selected anchors, not a subjective smoothness score.",
+  "review": "Full source contact sheets reviewed; final rendered samples and transition boundaries reviewed. No real-time listening test performed.",
+  "arc_shot_counts": {
+    "立志篇": 96,
+    "柱训练篇": 22,
+    "游郭篇": 38,
+    "锻刀村篇": 41,
+    "无限列车篇": 26
+  },
+  "arc_episode_counts": {
+    "柱训练篇": 2,
+    "锻刀村篇": 9,
+    "无限列车篇": 6,
+    "游郭篇": 6,
+    "立志篇": 20
+  },
+  "cut_transient_events": 188,
+  "internal_additional_transient_events": 98,
+  "total_unique_transient_events": 286,
+  "sound_alignment_adjustments": 21,
+  "pitch_preserving_retime_shots": 98,
+  "audio_channels": 2,
+  "audio_duration": "210.100000",
+  "audio_sample_peak_dbfs": -2.382094876103589,
+  "case": "V2 original workstation result; not a guarantee for every source/encoder",
+  "previous_version_hashes_unchanged": true
+}

@@ -1,0 +1,16 @@
+.local-build/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+work/
+output/
+.DS_Store
+*.mp4
+*.mkv
+*.mp3
+*.wav
+*.npz

@@ -1,0 +1,948 @@
+{
+  "ent43": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][43][CHS][1080P][AVC_AAC](029C894E).mp4"
+  },
+  "s1e21": {
+    "duration": 1420.132426,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][21][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e18": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][18][GB][1080P][x264_AAC].mp4"
+  },
+  "sword51": {
+    "duration": 1435.155737,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][51][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e17": {
+    "duration": 1420.085986,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][17][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e15": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][15][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e06": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][06][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e10": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][10][GB][1080P][x264_AAC].mp4"
+  },
+  "train31": {
+    "duration": 1302.1,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][31][CHS][1080P][AVC_AAC](325DDC38).mp4"
+  },
+  "ent38": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][38][CHS][1080P][AVC_AAC](6BB88898).mp4"
+  },
+  "s1e01": {
+    "duration": 1420.085986,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][01][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e16": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][16][GB][1080P][x264_AAC].mp4"
+  },
+  "sword54": {
+    "duration": 1435.225397,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][54][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e04": {
+    "duration": 1420.132426,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][04][GB][1080P][x264_AAC].mp4"
+  },
+  "sword47": {
+    "duration": 1435.178957,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][47][GB][1080P][x264_AAC].mp4"
+  },
+  "sword50": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][50][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e09": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][09][GB][1080P][x264_AAC].mp4"
+  },
+  "hashira01": {
+    "duration": 2934.978,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "01简体.mp4"
+  },
+  "s1e03": {
+    "duration": 1420.132426,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][03][GB][1080P][x264_AAC].mp4"
+  },
+  "train30": {
+    "duration": 1422.015,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][30][CHS][1080P][AVC_AAC](83262B37).mp4"
+  },
+  "train27": {
+    "duration": 1578.41,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][27][CHS][1080P][AVC_AAC](65CE46D7).mp4"
+  },
+  "hashira08": {
+    "duration": 2428.064,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "08简体.mp4"
+  },
+  "s1e13": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][13][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e02": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][02][GB][1080P][x264_AAC].mp4"
+  },
+  "train28": {
+    "duration": 1377.023333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][28][CHS][1080P][AVC_AAC](767AE875).mp4"
+  },
+  "s1e14": {
+    "duration": 1420.085986,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][14][GB][1080P][x264_AAC].mp4"
+  },
+  "ent42": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][42][CHS][1080P][AVC_AAC](51ED0EFD).mp4"
+  },
+  "train32": {
+    "duration": 1421.973333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][32][CHS][1080P][AVC_AAC](028436DE).mp4"
+  },
+  "sword49": {
+    "duration": 1435.178957,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][49][GB][1080P][x264_AAC].mp4"
+  },
+  "sword48": {
+    "duration": 1435.178957,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][48][GB][1080P][x264_AAC].mp4"
+  },
+  "sword53": {
+    "duration": 1420.202086,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][53][GB][1080P][x264_AAC].mp4"
+  },
+  "sword55": {
+    "duration": 3119.090068,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][55][GB][1080P][x264_AAC].mp4"
+  },
+  "ent40": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][40][CHS][1080P][AVC_AAC](3ED81F84).mp4"
+  },
+  "s1e11": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][11][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e19": {
+    "duration": 1420.132426,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][19][GB][1080P][x264_AAC].mp4"
+  },
+  "sword52": {
+    "duration": 1450.202268,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][52][GB][1080P][x264_AAC].mp4"
+  },
+  "ent39": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][39][CHS][1080P][AVC_AAC](97F6C677).mp4"
+  },
+  "s1e08": {
+    "duration": 1420.225306,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][08][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e12": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][12][GB][1080P][x264_AAC].mp4"
+  },
+  "ent41": {
+    "duration": 1422.058333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][41][CHS][1080P][AVC_AAC](FC03EC7C).mp4"
+  },
+  "s1e07": {
+    "duration": 1420.178866,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][07][GB][1080P][x264_AAC].mp4"
+  },
+  "s1e20": {
+    "duration": 1420.132426,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "44100"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][20][GB][1080P][x264_AAC].mp4"
+  },
+  "train33": {
+    "duration": 1591.978333,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24000/1001",
+        "sample_rate": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000"
+      }
+    ],
+    "filename": "[BeanSub&FZSD][Kimetsu_no_Yaiba][BDRip][33][CHS][1080P][AVC_AAC](8A785DBD).mp4"
+  }
+}

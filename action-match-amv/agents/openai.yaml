@@ -1,0 +1,4 @@
+interface:
+  display_name: "动作衔接混剪"
+  short_description: "跨集打斗选材、动作匹配、真实瞬态卡点、原片音效同步与漫画封面制作"
+  default_prompt: "使用 $action-match-amv 分析参考片，并用提供的动画与音乐制作动作连贯、保留原片音效的混剪。"

@@ -1,0 +1,12 @@
+Mode: built-in image_gen / compositing edit
+
+Use case: compositing / layout edit.
+Edit the attached existing four-character sword-drawing thumbnail. Deliver a SINGLE finished landscape image with EXACTLY the same 4:3 aspect ratio as the input (1448 x 1086 or a higher exact 4:3 size).
+USER CHANGE: the collage is currently much too regular. Replace the neat rectangular 2x2 grid with an expressive, asymmetrical MANGA PAGE composition with IRREGULAR, JAGGED panel boundaries.
+
+Preserve the SAME FOUR actual anime close-up images and their distinctive sword guards, drawing hands, scabbards, blade inscriptions and source-frame colors. These are Zenitsu (yellow), Sanemi (green), Muichiro (muted gold), and Rengoku (orange flame guard). Do not change who they are, invent fingers, redraw the swords, or substitute portraits. The focal moment in each is blade emerging from scabbard.
+
+The four pictures should occupy four UNEQUAL, irregular polygonal comic panels whose boundaries make dynamic slanting, kinked cuts. Break up the current centered cross completely: no continuous vertical midline, no continuous horizontal midline, no four equal quadrants. Use staggered junctions instead of four panels all meeting at one central point. Strong oblique edges, some torn-paper tooth-like notches, a few rough black ink strokes along the gutters; white/off-white narrow irregular gutters with crisp black hand-inked outlines. A small amount of restrained manga speed-line hatching along selected panel edges is welcome. Let a sword edge or existing hand contour break over a panel border slightly in one place, while keeping the images clearly separated and coherent. Deliberate asymmetry and kinetic pacing, not random fragmentation. Keep ample image area; the gutters and effects must not overwhelm the screenshots.
+
+Retain the overall warm-versus-cool contrast. Preserve each recognizable guard, gripping hand, and scabbard opening, large and easy to read. Re-crop/reposition the source views carefully to suit the new panel shapes, never distort anatomy or stretch the image. Frame must be full bleed, cover-ready, exact 4:3, no large outside margin.
+No title, no captions, no speech bubbles, no sound effect lettering, no logos, no watermark. Keep the original full-color anime frame rendering inside panels; manga styling belongs to the panel shapes and inked edges.
